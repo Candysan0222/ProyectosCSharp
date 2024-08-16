@@ -1,0 +1,12 @@
+C:\Users\Miguel\Documents\ProyectosCSharp\Exposiciones\mmm\bin\Debug\net8.0\mmm.deps.json
+C:\Users\Miguel\Documents\ProyectosCSharp\Exposiciones\mmm\bin\Debug\net8.0\mmm.dll
+C:\Users\Miguel\Documents\ProyectosCSharp\Exposiciones\mmm\bin\Debug\net8.0\mmm.pdb
+C:\Users\Miguel\Documents\ProyectosCSharp\Exposiciones\mmm\obj\Debug\net8.0\mmm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\Documents\ProyectosCSharp\Exposiciones\mmm\obj\Debug\net8.0\mmm.AssemblyInfoInputs.cache
+C:\Users\Miguel\Documents\ProyectosCSharp\Exposiciones\mmm\obj\Debug\net8.0\mmm.AssemblyInfo.cs
+C:\Users\Miguel\Documents\ProyectosCSharp\Exposiciones\mmm\obj\Debug\net8.0\mmm.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Documents\ProyectosCSharp\Exposiciones\mmm\obj\Debug\net8.0\mmm.sourcelink.json
+C:\Users\Miguel\Documents\ProyectosCSharp\Exposiciones\mmm\obj\Debug\net8.0\mmm.dll
+C:\Users\Miguel\Documents\ProyectosCSharp\Exposiciones\mmm\obj\Debug\net8.0\refint\mmm.dll
+C:\Users\Miguel\Documents\ProyectosCSharp\Exposiciones\mmm\obj\Debug\net8.0\mmm.pdb
+C:\Users\Miguel\Documents\ProyectosCSharp\Exposiciones\mmm\obj\Debug\net8.0\ref\mmm.dll

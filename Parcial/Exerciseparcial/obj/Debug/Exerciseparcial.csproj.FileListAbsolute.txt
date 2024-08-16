@@ -1,0 +1,7 @@
+C:\Users\Miguel\Documents\ProyectosCSharp\Parcial\Exerciseparcial\bin\Debug\Exerciseparcial.dll
+C:\Users\Miguel\Documents\ProyectosCSharp\Parcial\Exerciseparcial\bin\Debug\Exerciseparcial.pdb
+C:\Users\Miguel\Documents\ProyectosCSharp\Parcial\Exerciseparcial\obj\Debug\Exerciseparcial.csproj.AssemblyReference.cache
+C:\Users\Miguel\Documents\ProyectosCSharp\Parcial\Exerciseparcial\obj\Debug\Exerciseparcial.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Documents\ProyectosCSharp\Parcial\Exerciseparcial\obj\Debug\Exerciseparcial.dll
+C:\Users\Miguel\Documents\ProyectosCSharp\Parcial\Exerciseparcial\obj\Debug\Exerciseparcial.pdb
+C:\Users\Miguel\Documents\ProyectosCSharp\Parcial\Exerciseparcial\bin\Debug\Exerciseparcial.dll.config

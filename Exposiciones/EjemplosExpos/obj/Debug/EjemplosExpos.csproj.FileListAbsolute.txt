@@ -1,0 +1,6 @@
+C:\Users\Miguel\Documents\ProyectosCSharp\Exposiciones\EjemplosExpos\bin\Debug\EjemplosExpos.dll
+C:\Users\Miguel\Documents\ProyectosCSharp\Exposiciones\EjemplosExpos\bin\Debug\EjemplosExpos.pdb
+C:\Users\Miguel\Documents\ProyectosCSharp\Exposiciones\EjemplosExpos\obj\Debug\EjemplosExpos.csproj.AssemblyReference.cache
+C:\Users\Miguel\Documents\ProyectosCSharp\Exposiciones\EjemplosExpos\obj\Debug\EjemplosExpos.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Documents\ProyectosCSharp\Exposiciones\EjemplosExpos\obj\Debug\EjemplosExpos.dll
+C:\Users\Miguel\Documents\ProyectosCSharp\Exposiciones\EjemplosExpos\obj\Debug\EjemplosExpos.pdb
